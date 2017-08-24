@@ -11,7 +11,7 @@
 
 index | Problem | level | language
 ---|---|---|---
-1 | sum2| easy| c++
+1 | [sum2](http://note.youdao.com/)| easy| c++
 row 2 col 1 | row 2 col 2| row 1 col 2| c++
 
 
